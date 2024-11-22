@@ -14,9 +14,8 @@ pip (Python package manager)
 A valid SQLite database (or compatible database)
 
 Installation
-Clone the Repository
-git clone https://github.com/sak021/nlptosql.git  
-cd NLPtoSQL  
+- Unzip the folder >> Navigate to NLPtoSQL  OR
+- Clone the Repository >> git clone https://github.com/sak021/nlptosql.git  >> cd NLPtoSQL  
 
 Set Up the Environment
 Create a virtual environment:

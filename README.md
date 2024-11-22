@@ -56,3 +56,5 @@ Search model could be improved to take into account spelling mistakes/closely re
 
 Contact
 For queries or support, please reach out to salmanskhan21@gmail.com.
+
+**Please Note: The gemini key in .env file have been included for a brief period only**

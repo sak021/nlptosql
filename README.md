@@ -15,7 +15,7 @@ A valid SQLite database (or compatible database)
 
 Installation
 Clone the Repository
-git clone https://github.com/yourusername/nlp-to-sql.git  
+git clone https://github.com/sak021/nlptosql.git  
 cd NLPtoSQL  
 
 Set Up the Environment
@@ -49,6 +49,10 @@ NLPtoSQL/
 ├── requirements.txt    # Python dependencies   
 ├── .env                # Environment variables  
 └── README.md           # Documentation  
+
+
+Improvements:
+Search model could be improved to take into account spelling mistakes/closely related words (can be done by finetuning or using other models) 
 
 Contact
 For queries or support, please reach out to salmanskhan21@gmail.com.
